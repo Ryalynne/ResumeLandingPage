@@ -17,7 +17,7 @@ export default function About() {
           </div>
           <div className="p-6 md:p-8">
             <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
-              Hi I'm RYAN C SANTIAGO
+              Hi Im RYAN C SANTIAGO
             </h2>
             <p className="text-base md:text-lg text-gray-600 mb-6">
               Here are my socials and links. I just created this website after
