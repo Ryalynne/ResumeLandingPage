@@ -24,7 +24,7 @@ export default function About() {
               the interview.
             </p>
             <div className="uppercase tracking-wide text-sm md:text-base text-indigo-500 font-semibold mb-4">
-              Connect with me Metacom:
+              Connect with me Metacom
             </div>
             <div className="flex flex-col space-y-2 md:space-y-3">
               <Link
