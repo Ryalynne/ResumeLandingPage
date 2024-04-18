@@ -17,7 +17,7 @@ export default function About() {
           </div>
           <div className="p-6 md:p-8">
             <h2 className="text-xl md:text-2xl font-bold text-gray-800 mb-4">
-              Hi I'm RYAN C. SANTIAGO
+              Hi, I'm RYAN C. SANTIAGO
             </h2>
             <p className="text-base md:text-lg text-gray-600 mb-6">
               Here are my socials and links. I just created this website after
@@ -28,13 +28,13 @@ export default function About() {
             </div>
             <div className="flex flex-col space-y-2 md:space-y-3">
               <Link
-                href="https://github.com/Ryalynne?tab=repositoriese"
+                href=""
                 className="text-base md:text-lg font-semibold text-gray-900 hover:text-indigo-500 transition-colors duration-300"
               >
                 GitHub
               </Link>
               <Link
-                href="https://www.facebook.com/GIMMESOMEICECREAM/"
+                href=""
                 className="text-base md:text-lg font-semibold text-gray-900 hover:text-indigo-500 transition-colors duration-300"
               >
                 Facebook
